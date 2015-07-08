@@ -16,5 +16,5 @@ Copyright 2015 Erik Johnon.  All rights reserved.
 This program is only provided "as is".  There is no warrtany for this software,
 to the extent permitted by applicable law.
 
-Files in the folder nauty24r2 are Copyright Breandon Mckay and distributed
+Files in the folder nauty24r2 are Copyright Brendan McKay and distributed
 with permission.  See nauty24r2/README for details.
