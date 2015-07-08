@@ -180,7 +180,6 @@ def getCriticalHash(G, t, edges1, edges2):
             subG[vMap[e[0]]][vMap[e[1]]] = 1
             subG[vMap[e[1]]][vMap[e[0]]] = 1
 
-    # Oh fuck, I wasn't doing this before.  Are my results fucked?
     subG[vMap[t[0]]][vMap[t[2]]] = 0
     subG[vMap[t[2]]][vMap[t[0]]] = 0
     subG[vMap[t[1]]][vMap[t[2]]] = 0
