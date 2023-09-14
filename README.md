@@ -2,19 +2,14 @@
 
 Research code for searching for Hajos constructions of graphs. 
 
-This code was created as part of my MSc thesis research.  No effort has been
-made to make it easy to use or to understand.  So if you want to do anything
-with it, I recommend you contact me:
-
-Erik Johnson
-
-eejohnso at ualberta.ca
+This code was created as part of my MSc thesis research.  Unfortunately, no effort has been
+made to make it easy to use or to understand. 
 
 -------------------------------------------------------------------------------
 
-Copyright 2015 Erik Johnon.  All rights reserved.
-This program is only provided "as is".  There is no warrtany for this software,
-to the extent permitted by applicable law.
+Copyright 2015 Erik Johnson.  All rights reserved.
 
 Files in the folder nauty24r2 are Copyright Brendan McKay and distributed
 with permission.  See nauty24r2/README for details.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
